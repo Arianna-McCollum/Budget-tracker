@@ -32,10 +32,9 @@
       }
     ],
     "name": "Budget Tracker",
-    "orientation": "portrait",
+    "short_name": "Budget-tracker",
     "display": "standalone",
     "start_url": "index.html",
-    "description": "An app that allows you to view your budget.",
     "background_color": "#ffffff",
     "theme_color": "#ffffff"
   }
