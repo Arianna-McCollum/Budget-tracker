@@ -28,5 +28,6 @@ https://budget-tracker-assignment-100.herokuapp.com/
  This application uses the MIT license.
  
   ## How it should look
-![Screenshot (123)](https://user-images.githubusercontent.com/84581536/139604130-22223660-afae-4040-b135-92035953acf0.png)
 
+
+![Screenshot (124)](https://user-images.githubusercontent.com/84581536/139604157-f0b0a0bb-0203-413c-a582-3e98e8721364.png)
