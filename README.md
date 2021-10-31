@@ -27,5 +27,6 @@ https://budget-tracker-assignment-100.herokuapp.com/
   ![badge](https://img.shields.io/badge/license-MIT-blue)<br>
  This application uses the MIT license.
  
-  ## How it should look!
-  [Screenshot (123)](https://user-images.githubusercontent.com/84581536/139604062-86559fde-9d84-4347-8ce8-9fecbc9aa9a4.png)
+  ## How it should look
+![Screenshot (123)](https://user-images.githubusercontent.com/84581536/139604130-22223660-afae-4040-b135-92035953acf0.png)
+
